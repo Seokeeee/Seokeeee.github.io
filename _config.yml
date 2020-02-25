@@ -85,7 +85,7 @@ exclude:
   - README.md
   - CNAME
 
-# Math equation
+# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
