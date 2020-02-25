@@ -3,17 +3,17 @@ layout: post
 title: 나이브 베이즈 분류
 ---
 
- 이번 포스팅에서 알아볼 내용은 베이즈 정리(Bayes's theorem)에 기반한 데이터 과학 기법인
- 나이브 베이즈 분류(Naive Bayesian Classification)에 대해 알아보겠습니다.
- 해당 내용은 [**비지니스를 위한 데이터과학**](http://www.hanbit.co.kr/store/books/look.php?p_code=B9423118473, "데이터 과학")을 기반으로 정리했습니다.
+ 이번 포스팅에서 알아볼 내용은 베이즈 정리(Bayes's theorem)에 기반한 데이터 과학 기법인 나이브 베이즈 분류(Naive Bayesian Classification)에 대해 알아보겠습니다. 해당 내용은 [비지니스를 위한 데이터과학](http://www.hanbit.co.kr/store/books/look.php?p_code=B9423118473, "데이터 과학")을 기반으로 정리했습니다.<br>
+<br>
     
-    
+
+
 
 왜 나이브 베이즈를 데이터 과학에 활용하는가?
 ----------------------------------------
 나이브 베이즈 개념을 설명하기 앞서 먼저 나이브 베이즈가 갖는 장점에 대해 이야기하겠습니다.   
 
-    * 단순하다.   
+    * 단순하다.   𝑃_𝐴=𝑃
     * 빠르다.   
     * 효율적이다.
 
