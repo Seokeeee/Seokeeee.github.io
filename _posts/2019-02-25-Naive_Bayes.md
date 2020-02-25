@@ -14,10 +14,12 @@ use_math: true
 ----------------------------------------
 나이브 베이즈 개념을 설명하기 앞서 먼저 나이브 베이즈가 갖는 장점에 대해 이야기하겠습니다.   
 
-    $$
-    \lim_{x\to 0}{\frac{e^x-1}{2x}}
-    \overset{\left[\frac{0}{0}\right]}{\underset{\mathrm{H}}{=}}
-    \lim_{x\to 0}{\frac{e^x}{2}}={\frac{1}{2}}
-    $$
+
+$$
+\lim_{x\to 0}{\frac{e^x-1}{2x}}
+\overset{\left[\frac{0}{0}\right]}{\underset{\mathrm{H}}{=}}
+\lim_{x\to 0}{\frac{e^x}{2}}={\frac{1}{2}}
+$$
+
 
 나이브 베이즈
