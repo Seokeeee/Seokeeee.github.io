@@ -15,4 +15,4 @@ use_math: true
 
 다음 예제는 상자에 들어있는 공을 꺼냈을 때, 어떤 공이 나올 '확률'에 대한 문제입니다.
 
-![_config.yml]({{ github.com/Seokeeee/Seokeeee.github.io }}/images/Bayes theorem/box.png)
+![_config.yml]({{ site.baseurl }}/images/Bayes theorem/box.png)
