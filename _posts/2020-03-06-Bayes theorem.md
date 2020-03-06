@@ -5,4 +5,4 @@ use_math: true
 ---
 <br>
 <br>
-
+![_config.yml]({{ site.baseurl }}/images/Bayes theorem/box.png)
